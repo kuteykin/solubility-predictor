@@ -1,4 +1,4 @@
-**project solubility-predictor**
+**project solubility-predictor** (in progress)
 
 # Water solubility predictor (regression model)
 
